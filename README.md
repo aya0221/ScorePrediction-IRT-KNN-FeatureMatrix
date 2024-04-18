@@ -1,1 +1,1 @@
-# scorePrediction_IRT_KNN_FeatureMatrix
+# ScorePrediction-IRT-KNN-FeatureMatrix
